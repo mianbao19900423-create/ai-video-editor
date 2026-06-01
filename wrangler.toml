@@ -1,0 +1,14 @@
+# Cloudflare Pages 配置文件
+name = "ai-video-editor"
+compatibility_date = "2024-01-01"
+
+# 环境变量
+[vars]
+# Shotstack API 密钥（在 Cloudflare Pages 控制台中设置）
+# SHOTSTACK_API_KEY = "your_shotstack_api_key_here"
+
+# D1 数据库绑定（需要在 Cloudflare Pages 控制台中绑定）
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "ai-video-editor-db"
+# database_id = "42044cfd-2bd7-4d29-9820-53460781db0d"
